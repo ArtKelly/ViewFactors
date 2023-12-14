@@ -1,5 +1,4 @@
-# I used the paper resource below to help design my calculations
-# http://webserver.dmt.upm.es/~isidoro/tc3/Radiation%20View%20factors.pdf 
+# I used the paper resource (included in project root) to help design my calculations
 
 import math
 
